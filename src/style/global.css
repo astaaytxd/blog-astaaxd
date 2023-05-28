@@ -353,6 +353,9 @@ footer p {
   }
 }
 @media (max-width: 396px) {
+  .home {
+    min-height: 290px;
+  }
   .home-title {
     font-size: 2rem;
   }
