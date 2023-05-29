@@ -1,0 +1,31 @@
+{
+  "post": [
+    {
+      "id" : "data",
+      "category" : "ML LITE",
+      "title" : "Data ML LITE 200MB TERBARU PATCH NOVARIA",
+      "date" : "12 May 2023",
+      "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Fuga cumque illum, nostrum totam natus unde suscipit rerum aliquid modi soluta,doloremque facilis consectetur voluptas.Nisi ?",
+      "image" : "img.jpg",
+      "profile" : "profile.png"
+    },
+    {
+      "id" : "tambahan",
+      "category": "DATA TAMBAHAN",
+      "title": "Data ML LITE 200MB TERBARU PATCH NOVARIA",
+      "date": "12 May 2023",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Fuga cumque illum, nostrum totam natus unde suscipit rerum aliquid modi soluta,doloremque facilis consectetur voluptas.Nisi ?",
+      "image": "img1.jpg",
+      "profile": "profile.png"
+    },
+    {
+      "id" : "config",
+      "category": "CONFIG",
+      "title": "Data ML LITE 200MB TERBARU PATCH NOVARIA",
+      "date": "12 May 2023",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Fuga cumque illum, nostrum totam natus unde suscipit rerum aliquid modi soluta,doloremque facilis consectetur voluptas.Nisi ?",
+      "image": "img2.jpg",
+      "profile": "profile.png"
+    }
+    ]
+}

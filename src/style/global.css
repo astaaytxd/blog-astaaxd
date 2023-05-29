@@ -337,7 +337,7 @@ footer p {
     height: 280px;
   }
   footer {
-    flex-direction: column;
+    flex-direction: row;
     row-gap: 1rem;
     padding: 20px 0;
     text-align: center;
@@ -389,5 +389,11 @@ footer p {
   }
   .post-date {
     font-size: 0.85rem;
+  }
+  footer {
+    padding: 10px 0;
+  }
+  footer p {
+    font-size: 0.9rem;
   }
 }
