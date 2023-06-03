@@ -1,6 +1,7 @@
 //postJSON
-$.getJSON('./src/assets/data/post.json',function(data){
-  let post = data.post;
+$.getJSON('https://atools-ml-default-rtdb.firebaseio.com/post.json',function(data){
+  console.log(data)
+  let post = data;
   $.each(post, function(i,data){
     $('.post.container').append(`<div class="post-box ${data.id}"><img src="./src/assets/images/${data.image}" class="post-img" /><h2 class="category">${data.category}</h2><a href="post-title.html" class="post-title">${data.title}</a><span class="post-date">${data.date}</span><p class="post-description">${data.description}</p><div class="profile"><img src="./src/assets/images/${data.profile}" class="profile-img"/><span class="profile-name">AstaXD</span></div></div>`);
   })

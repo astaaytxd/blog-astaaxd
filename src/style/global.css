@@ -284,6 +284,9 @@ footer p {
   .home-text {
     width: 100%;
   }
+  .post-box {
+    max-width: 295px;
+  }
 }
 @media (max-width: 800px) {
   .nav {
@@ -353,6 +356,9 @@ footer p {
   }
 }
 @media (max-width: 396px) {
+  .post-box {
+    max-width: 100%;
+  }
   .home {
     min-height: 290px;
   }
